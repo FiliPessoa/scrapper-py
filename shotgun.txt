@@ -1,0 +1,9 @@
+Title: Haus_it 4 anos | 29 de Setembro
+Local: Edifício Venâncio II Conic
+data: sexta 29 set
+price: 30
+startTime: 22:00
+endTime: 06:00
+link: https://shotgun.live/pt-br/events/haus-it-4-anos-29-09
+description: 22
+/////
